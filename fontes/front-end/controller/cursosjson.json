@@ -5,7 +5,7 @@
 		{"codigo":"2", "descricao":"PHP", "diashorarios":"Terça, 18hs", "professor":"Rosimery"},
 		{"codigo":"3", "descricao":"Python", "diashorarios":"Quarta, 18hs", "professor":"Nicanor Vieira"},
 		{"codigo":"4", "descricao":"Arduino", "diashorarios":"Quinta, 18hs", "professor":"Neri"},
-		{"codigo":"4", "descricao":"WebDesigner", "diashorarios":"Sexta 18hs", "professor":"Lucia de Fatima"},
+		{"codigo":"5", "descricao":"WebDesigner", "diashorarios":"Sexta 18hs", "professor":"Lucia de Fatima"}
 
 	]
 }
